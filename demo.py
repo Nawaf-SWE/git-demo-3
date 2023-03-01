@@ -1,3 +1,5 @@
+# @param x: number
+# @return x squared
 def square(x):
     return x**2
 
